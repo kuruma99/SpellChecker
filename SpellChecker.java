@@ -51,8 +51,6 @@ Can be run on cmd line as (when using Misspeller):
 
              unixPrompt>   java Misspeller | java SpellChecker
 
- *  @author Brian Wright
- *  @version Dec 13, 2013
  */
 public class SpellChecker
 {
